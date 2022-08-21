@@ -19,6 +19,7 @@ h2 {
     margin-bottom: 30px;
     margin-top: 30px;
     width: 100%;
+    border-bottom: 5px solid #BDBDBD;
 }
 
 .NavP{
@@ -33,7 +34,7 @@ h2 {
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    border: 5px solid transparent;   
+    border: 10px solid blue;   
     
     
 }
@@ -79,13 +80,8 @@ h2 {
 .title{
     color:#4E598C;
     text-align: start;
-    margin: 55px 0px 40px 0px;
 }
-.title1{
-    color:#4E598C;
-    text-align: start;
-    margin: 302px 0px 40px 0px;
-}
+
 .name,
 .email,
 .address1,
